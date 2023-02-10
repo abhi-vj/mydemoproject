@@ -12,6 +12,6 @@ p {font-family:Georgia, serif;font-size:18px;font-style:normal;font-weight:norma
 </head>
 <body>
 <h1>Welcome to Abhishek Web Page</h1>
-<p>It was made using JAVA EE, Eclipse, Maven, Jenkins and Tomcat (because docker was not working in my PC).</p>
+<p>It was made using JAVA EE, Eclipse, Maven, Jenkins and Tomcat.</p>
 </body>
 </html>
