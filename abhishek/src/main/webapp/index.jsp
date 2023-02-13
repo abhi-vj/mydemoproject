@@ -11,7 +11,7 @@ p {font-family:Georgia, serif;font-size:18px;font-style:normal;font-weight:norma
 </style>
 </head>
 <body>
-<h1>Welcome to Abhishek Web Page</h1>
+<h1>Welcome to Abhishek's WebApp</h1>
 <p>It was made using JAVA EE, Eclipse, Maven, Jenkins and Tomcat.</p>
 </body>
 </html>
