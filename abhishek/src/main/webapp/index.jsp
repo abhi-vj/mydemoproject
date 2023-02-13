@@ -6,8 +6,8 @@ Welcome to Abhishek's Web Page</title>
 <meta name="description" content="It was made using JAVA EE, Eclipse, Maven, Jenkins and Tomcat (because docker was not working in my PC).">
 <style>
 body {background-color:#ffffff;background-image:url(https://wallpaperaccess.com/full/2648925.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:fixed;}
-h1{text-align:left;font-family:Arial, sans-serif;color:#ffffff;}
-p {font-family:Georgia, serif;font-size:18px;font-style:normal;font-weight:normal;color:#ffffff;}
+h1{text-align:left;font-family:Arial, sans-serif;font-size:40px;color:#ffffff;}
+p {font-family:Georgia, serif;font-size:30px;font-style:normal;font-weight:normal;color:#ffffff;}
 </style>
 </head>
 <body>
